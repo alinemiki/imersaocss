@@ -1,0 +1,41 @@
+body {
+    background: #F0FFFF;
+    font-family: montserrat;
+  }
+  
+  .menu {
+    background-color: #B0E0E6;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none; 
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle, 
+  .site-title {
+      text-align: center;
+  }
+  
+  .site-title {
+    color: #4682B4;
+  
+  }
+  
+  .site-subtitle {
+    color: #808080;
+    font-style: italic;
+  }
